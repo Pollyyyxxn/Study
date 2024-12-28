@@ -1,9 +1,0 @@
-[submodule "1_kurs"]
-	path = 1_kurs
-	url = https://github.com/Karim90403/Stankin-1-2-sem
-[submodule "2_kurs"]
-	path = 2_kurs
-	url = https://github.com/Karim90403/Stankin-3-4-sem
-[submodule "3_kurs"]
-	path = 3_kurs
-	url = https://github.com/Karim90403/Stankin-5-6-sem
